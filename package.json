@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "week 6 challenge 4",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node ./dist/index.js",
     "start:mon": "cross-env PORT=2322 nodemon ./dist/index.js",
