@@ -22,9 +22,15 @@ La app debe abrirse en un puerto por defecto que esté configurado como variable
 
 Si la request no va a /calculator, la app debe responder con un 404.
 
+## ¡DONE
+
 ## Opción extra
 
 Recoger los números en un formulario y recalcular los valores, utilizando SOLO vanila TS
+
+### Dudas
+
+Recogidos los datos del formulario, actualiza correctamente el pathname, pero no carga el resto de la página con la query.
 
 ## API REST Things I already know
 
